@@ -5,6 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/nandofsm)
 
 ### About me
-Mariah's father.
-I am a backend, frontend and mobile developer.
-Passionate about travel, food and the beach.
+- Mariah's father.
+- I am a backend, frontend and mobile developer.
+- Passionate about travel, food and the beach.
